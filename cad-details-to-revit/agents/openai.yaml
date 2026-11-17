@@ -1,0 +1,4 @@
+interface:
+  display_name: "CAD Details to Revit"
+  short_description: "Editable drafting details with native CAD visual QA"
+  default_prompt: "Use $cad-details-to-revit to recreate this CAD detail in the active Revit model and verify its visual fidelity."
